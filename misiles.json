@@ -1,0 +1,22 @@
+[
+  {"nombre":"Defensor-1", "tipo":"Corto alcance", "año":2020, "estado":"Activo"},
+  {"nombre":"Centinela-X", "tipo":"Medio alcance", "año":2019, "estado":"En desarrollo"},
+  {"nombre":"Guardián-2000", "tipo":"Largo alcance", "año":2018, "estado":"Retirado"},
+  {"nombre":"Escudo-A", "tipo":"Corto alcance", "año":2021, "estado":"Activo"},
+  {"nombre":"Protector-B", "tipo":"Medio alcance", "año":2017, "estado":"Activo"},
+  {"nombre":"Vigía-C", "tipo":"Largo alcance", "año":2022, "estado":"En pruebas"},
+  {"nombre":"Custodio-3", "tipo":"Corto alcance", "año":2016, "estado":"Retirado"},
+  {"nombre":"Centinela-Y", "tipo":"Medio alcance", "año":2020, "estado":"Activo"},
+  {"nombre":"Defensor-2", "tipo":"Largo alcance", "año":2019, "estado":"En desarrollo"},
+  {"nombre":"Escudo-B", "tipo":"Corto alcance", "año":2018, "estado":"Activo"},
+  {"nombre":"Protector-C", "tipo":"Medio alcance", "año":2021, "estado":"En pruebas"},
+  {"nombre":"Vigía-D", "tipo":"Largo alcance", "año":2017, "estado":"Retirado"},
+  {"nombre":"Custodio-4", "tipo":"Corto alcance", "año":2022, "estado":"Activo"},
+  {"nombre":"Centinela-Z", "tipo":"Medio alcance", "año":2016, "estado":"En desarrollo"},
+  {"nombre":"Defensor-3", "tipo":"Largo alcance", "año":2020, "estado":"Activo"},
+  {"nombre":"Escudo-C", "tipo":"Corto alcance", "año":2019, "estado":"En pruebas"},
+  {"nombre":"Protector-D", "tipo":"Medio alcance", "año":2018, "estado":"Retirado"},
+  {"nombre":"Vigía-E", "tipo":"Largo alcance", "año":2021, "estado":"Activo"},
+  {"nombre":"Custodio-5", "tipo":"Corto alcance", "año":2017, "estado":"En desarrollo"},
+  {"nombre":"Centinela-W", "tipo":"Medio alcance", "año":2022, "estado":"En pruebas"}
+]
